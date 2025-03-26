@@ -1,11 +1,11 @@
 # Paradigmas de Programação
 Este exemplo traz o conceito de paradigmas de programação.
 
-O mesmo foi desenvolvido em Delphi, porem serve como ilustação ao conceito que este pode ser aplicar a qualquer linguagem.
+O mesmo foi desenvolvido em Delphi, porem serve como ilustação ao conceito que este pode ser aplicado a qualquer linguagem.
 
-Apesar de existirem linguagens que tendem mais um um tipo de paradigma específico, de forma ampla não existe uma aplicação 100% escrita em um único paradigma, é ideal você aprender todos os conceitos, assim será possivel saber onde, quando e como aplicar cada um deles.
+Apesar de existirem linguagens que tendem mais um tipo de paradigma específico, de forma ampla não existe uma aplicação 100% escrita em um único paradigma, é ideal você aprender todos os conceitos, assim será possivel saber onde, quando e como aplicar cada um deles.
 
-Clique [aqui](https://youtu.be/qI-f-6cb6LI) para acessar video no youtube explicando cada paradigma e demosntrando exemplos.
+Clique [aqui](https://youtu.be/qI-f-6cb6LI) para acessar video no youtube explicando cada paradigma e demonstrando exemplos.
 
 <br>
 
